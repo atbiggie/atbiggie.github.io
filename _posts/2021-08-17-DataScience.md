@@ -9,7 +9,7 @@ Although the traditional role of statisticians may be based more in statistical 
 
 As for myself, I believe I'm a statistician who is gaining the skills necessary to enter the world of data science. Most of my education has been about statistical theory and practice, but I've taken more recent classes that have allowed me to gain a strong knowledge base in SAS, dip my toes into SQL, and dive deep into R. I think it's honing these skills, as well as exploring deep learning and artificial intelligence, that will prepare me to walk the common ground between statistics and data science.
 
-~ Autumn 2021-08-17
+~ Autumn
 
 https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f
 https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/
