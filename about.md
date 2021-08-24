@@ -16,7 +16,7 @@ Originally, I'm from a small town called Zebulon, which is about 30 minutes east
 **Do you have family close by?**  
 Yes! My parents reside in Zebulon, NC. My two older brothers live in the area around Raleigh as well and my sister is living in New York. I also just got engaged and my fiancee and I are looking at staying in the Raleigh area.  
 
-**What are your hobbies?**
+**What are your hobbies?**  
 Some of my hobbies are doing home workouts, hiking, camping, leatherwork, macrame, handbuilding pottery, and traveling. I've been to Germany, Austria, Switzerland, St. Lucia, the Dominican Republic, and I just spent a month earning my TEFL Certification in Costa Rica this past summer. I hope to visit many more places soon! I don't have any pets but one of my life goals is to own a Chinese Water Dragon. I have a couple of beloved house plants named Mitch and Eddie (snake plant and pathos).
 
 ### Contact me
