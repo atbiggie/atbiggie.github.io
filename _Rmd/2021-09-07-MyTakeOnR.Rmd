@@ -3,7 +3,7 @@ title: "Programming Background"
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, fig.path = "../atbiggie.github.io/images")
+knitr::opts_chunk$set(echo = TRUE, fig.path = "../atbiggie.github.io/images/")
 library(rmarkdown)
 ```
 

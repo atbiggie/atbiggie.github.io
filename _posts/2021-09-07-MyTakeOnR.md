@@ -29,4 +29,4 @@ use, flexibility, and intuitive (albeit ugly) syntax.
 plot(iris)
 ```
 
-![](../atbiggie.github.io/imagesexample%20graphics-1.png)<!-- -->
+![](../atbiggie.github.io/images/example%20graphics-1.png)<!-- -->
