@@ -1,0 +1,21 @@
+---
+title: "Programming Background"
+author: "Autumn Biggie"
+date: "9/7/2021"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.path = "../images/")
+library(rmarkdown)
+```
+
+## My (not so hot) take on R
+
+blog body...  
+
+## Example R Markdown Output  
+
+```{r example graphics}
+plot(iris)
+```
+
