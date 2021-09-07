@@ -28,7 +28,3 @@ plot(iris)
 ```
 
 ![](../images/example%20graphics-1.png)<!-- -->
-
-``` r
-rmarkdown::render("C:\\Users\\autum\\Documents\\ST 558\\atbiggie.github.io\\_Rmd\\2021-09-07-MyTakeOnR.Rmd", output_format = "github_document", output_dir = "../atbiggie.github.io/_posts/", output_options = list(html_preview = FALSE))
-```
