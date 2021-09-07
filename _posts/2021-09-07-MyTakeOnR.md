@@ -1,6 +1,5 @@
--------------
-title: Programming Background
--------------
+Programming Background
+================
 
 ## My (not so hot) take on R
 
