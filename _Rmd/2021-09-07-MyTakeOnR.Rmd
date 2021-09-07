@@ -1,7 +1,5 @@
 ---
 title: "Programming Background"
-author: "Autumn Biggie"
-date: "9/7/2021"
 ---
 
 ```{r setup, include=FALSE}
