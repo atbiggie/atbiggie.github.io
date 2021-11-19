@@ -24,5 +24,3 @@ excited to start using R for some personal projects outside of school,
 as well as to present data for other statistics classes.
 
 I’ll keep you posted on what I create\!
-
-<img src="https://github.com/atbiggie/atbiggie.github.io/blob/master/images/../../sunset.JPG" width="4032" />

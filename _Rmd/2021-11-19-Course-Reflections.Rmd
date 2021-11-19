@@ -13,9 +13,6 @@ Now that I've taken ST 558, I'll be looking for a job that allows me to use R fr
 
 I'll keep you posted on what I create!  
 
-```{r, echo=FALSE}
-knitr::include_graphics("../../sunset.JPG")
-```
 
 
 ```{r render in console, eval=FALSE, echo=FALSE}
