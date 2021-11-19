@@ -25,8 +25,4 @@ as well as to present data for other statistics classes.
 
 I’ll keep you posted on what I create\!
 
-``` r
-knitr::include_graphics("../../sunset.jpg")
-```
-
-<img src="https://github.com/atbiggie/atbiggie.github.io/blob/master/images/../../sunset.jpg" width="4032" />
+<img src="https://github.com/atbiggie/atbiggie.github.io/blob/master/images/../../sunset.JPG" width="4032" />
