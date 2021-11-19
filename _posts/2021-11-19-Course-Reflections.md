@@ -29,4 +29,4 @@ I’ll keep you posted on what I create\!
 knitr::include_graphics("../../sunset.jpg")
 ```
 
-<img src="../../sunset.jpg" width="4032" />
+<img src="https://github.com/atbiggie/atbiggie.github.io/blob/master/images/../../sunset.jpg" width="4032" />
